@@ -1,0 +1,36 @@
+class Pin{
+
+private:
+    int pin;
+    int directie;
+    int stare;
+
+
+     Pin:Pin(int pin,int directie,int stare)
+{
+     this.pin->pin;
+     this.directie->directie;
+     this.stare->stare;
+}
+
+Public:
+    void set_pin(int pin);
+    int get_direction(int dir);
+    void change_direction(int dir);
+
+int get_direction(int dir)
+{ 
+
+}
+
+void set_pin(int pin)
+{
+
+}
+
+void change_direction(int dir)
+{
+
+}
+
+}
